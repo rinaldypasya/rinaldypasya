@@ -1,6 +1,6 @@
 Hi, I'm Rinaldy Pasya!
 
-I'm a Senior Software Engineer with 7+ years of professional experience designing, building, and scaling backend systems, APIs, and distributed applications.
+I'm a Software Engineer with 7+ years of professional experience designing, building, and scaling backend systems, APIs, and distributed applications.
 
 ### My expertise includes:
 
